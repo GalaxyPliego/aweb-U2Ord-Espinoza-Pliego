@@ -1,0 +1,18 @@
+body{
+    background-color: #2b2b2b;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.div1{
+    background-color: rgba(128, 128, 128, 0.466);
+}
+
+.div2{
+    background-color: gray;
+    padding: 5px;
+    border-radius: 10px;
+}
